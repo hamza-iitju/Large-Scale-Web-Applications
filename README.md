@@ -16,3 +16,9 @@ Capability of supporting and optimizing resource utilization on increasing workl
 ## Automation
 Logical segregation of layers in current large scale web applications.   
 ![myimage-alt-tag](https://github.com/hamza-iitju/Large-Scale-Web-Applications/blob/master/logical%20segregation%20of%20layers.png)
+
+## For Scalable Websites
+Parallel processing - Explicit and Implicit parallelism, batch  parallelism, asynchronous programming, segregating layers, distributing workloads, Load balancing, multi- tenancy, scaling out on all layers, sharding, partitioning, CAP preference, reads, writes, statelessness, logging and telemetry, automating, SOA adoption, caching, throttling, distributing requests across multiple zones, effective usage of CDNs, Auto provisioning, Auto scaling, compression, queuing, workload distribution, batch processing, designing system with fault tolerance, redundancy, Consistency, Availability, Partition Tolerance, event processing, web sockets, cloud computing, fog computing, Grid Computing,  Client side workload distribution, In-Memory processing, Proxies, No single points of failure. Resilience to failure, Graceful degradation, Recoverability from failure, design for failure, Database Transactions, Client side transactions, two-phase commit, Auto-commit, Partition Everything, DB operations ordering, Considerations for Eventual consistency, Functional Segmentation, Application Pools, Prevention of session state, Async Everywhere, Index, Structured Indexes, text indexes, entity indexes, Fuzzy match indexes, pre-aggregated indexes, pre-calculated indexes, embedded value indexes, join indexes, link indexes, De-Normalized Indexes (all kinds) are all important considerations for a highly successful and scalable website.
+
+
+Ref: https://www.linkedin.com/pulse/architecting-extremely-large-scale-web-applications-panduranga?trk=mp-reader-card
