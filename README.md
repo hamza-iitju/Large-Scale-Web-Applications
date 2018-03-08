@@ -13,3 +13,6 @@ AlwaysOn Failover Cluster Instances, AlwaysOn Availability Groups, Database mirr
 ## Scalability
 Capability of supporting and optimizing resource utilization on increasing workloads on various dimensions such as memory, cores, data structures, throughout and more.
 
+## Automation
+Logical segregation of layers in current large scale web applications.   
+![myimage-alt-tag](https://github.com/hamza-iitju/Large-Scale-Web-Applications/blob/master/logical%20segregation%20of%20layers.png)
